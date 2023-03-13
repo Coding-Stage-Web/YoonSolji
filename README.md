@@ -1,2 +1,2 @@
 # YoonSolji
-깜찍발랄😝스웩 넘치는🤙😎사랑스럽고💓하고 싶은거 다하는🥰 뭐? 개발자👩‍💻가 마법🧙을 부린다구? 그게 누군데? ...웅성웅성.....👥....웅성웅성...👥....💫솔지💫래!
+<img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300" />
