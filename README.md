@@ -21,7 +21,7 @@
 
 |**week**|과제주제|과제링크(week브랜치링크첨부)|
 |:---:|:---:|:---:|
-|1주차|spring mvc + 환경세팅|https://solarthenomadictraveler.tistory.com/37|
+|1주차|props, lifecycle|https://github.com/Solarthenomad/PracticeReact.js|
 |2주차||링크2|
 |3주차||링크3|
 |4주차||링크4|
