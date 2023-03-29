@@ -9,7 +9,7 @@
 |**week**|과제주제|과제링크(week브랜치링크첨부)|
 |:---:|:---:|:---:|
 |1주차|spring mvc + 환경세팅|https://solarthenomadictraveler.tistory.com/37|
-|2주차||https://solarthenomadictraveler.tistory.com/|
+|2주차|컨트롤러, 서비스계층, 어플리케이션 계층, 리파지토리 계층 - 현재 코드 구현중|https://solarthenomadictraveler.tistory.com/|
 |3주차||링크3|
 |4주차||링크4|
 |5주차||링크5|
