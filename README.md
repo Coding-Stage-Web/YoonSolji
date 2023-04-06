@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 |1주차|spring mvc + 환경세팅|https://solarthenomadictraveler.tistory.com/37|
 |2주차|컨트롤러, 서비스계층, 어플리케이션 계층, 리파지토리 계층 - 현재 코드 구현중|https://solarthenomadictraveler.tistory.com/|
-|3주차||링크3|
+|3주차|컨트롤러 설계, 경로변수|https://solarthenomadictraveler.tistory.com/68|
 |4주차||링크4|
 |5주차||링크5|
 |6주차||링크6|
@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|
 |1주차|props, lifecycle|https://github.com/Solarthenomad/PracticeReact.js|
 |2주차|component|https://solarthenomadictraveler.tistory.com/|
-|3주차|sweetalert2, |https://solarthenomadictraveler.tistory.com/71|
+|3주차|sweetalert2, fetchmethod|https://solarthenomadictraveler.tistory.com/71|
 |4주차||링크4|
 |5주차||링크5|
 |6주차||링크6|
