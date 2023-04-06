@@ -22,8 +22,8 @@
 |**week**|과제주제|과제링크(week브랜치링크첨부)|
 |:---:|:---:|:---:|
 |1주차|props, lifecycle|https://github.com/Solarthenomad/PracticeReact.js|
-|2주차||https://solarthenomadictraveler.tistory.com/|
-|3주차||링크3|
+|2주차|component|https://solarthenomadictraveler.tistory.com/|
+|3주차|sweetalert2, |https://solarthenomadictraveler.tistory.com/71|
 |4주차||링크4|
 |5주차||링크5|
 |6주차||링크6|
