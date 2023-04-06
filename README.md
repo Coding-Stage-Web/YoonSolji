@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|
 |1주차|props, lifecycle|https://github.com/Solarthenomad/PracticeReact.js|
 |2주차|component|https://solarthenomadictraveler.tistory.com/|
-|3주차|sweetalert2, fetchmethod|https://solarthenomadictraveler.tistory.com/71|
+|3주차|sweetalert2, fetchmethod|https://solarthenomadictraveler.tistory.com/71   https://github.com/Coding-Stage-Web/YoonSolji/tree/week2|
 |4주차||링크4|
 |5주차||링크5|
 |6주차||링크6|
