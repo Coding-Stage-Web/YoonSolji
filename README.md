@@ -26,6 +26,6 @@
 |3주차|sweetalert2, fetchmethod|https://solarthenomadictraveler.tistory.com/71   https://github.com/Coding-Stage-Web/YoonSolji/tree/week2|
 |4주차|React-Redux, React-Cookie|https://solarthenomadictraveler.tistory.com/81|
 |5주차|state복습, typescript|https://github.com/Solarthenomad/REACT-2-STUDY https://solarthenomadictraveler.tistory.com/86|
-|6주차||링크6|
+|6주차|typscript 클래스 패턴, react 복습|https://solarthenomadictraveler.tistory.com/
 |7주차||링크7|
 |8주차||링크8|
